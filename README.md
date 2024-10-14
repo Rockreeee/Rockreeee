@@ -1,5 +1,11 @@
 ## Hello👋
 ### Just 24 years old 👨🏽‍🦳
+## URL
+<p align="left">
+    <a href="https://github.com/Rockreeee"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="40" height="40"/></a> &nbsp; 
+    <a href="https://qiita.com/Rockreeee"><img src="https://cdn.qiita.com/assets/public/push_notification/image-qiitan-572179a3bbde375850422ea48b2b6272.png" alt="Qiita" width="40" height="40"/></a>
+</p>
+
 ## This information is based on public repositories only and not be fully accurate.😉
 ![Rockreeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rockreeee&show_icons=true&theme=vue-dark)
 
@@ -10,9 +16,9 @@
 
 
 ## My Skill (Programming Languages, Frameworks and Tools)
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=
-swift,kotlin,flutter,dart,firebase,python,html,css,js,github,vscode,discord,aws,raspberrypi" /> <br /><br />
+swift,kotlin,flutter,dart,firebase,python,html,css,js,github,vscode,discord,aws,raspberrypi" /> <br /><br /></p>
 
 ## My App
 <a href="https://rockreeee.github.io/LibertyMCBattle-web-page/">
