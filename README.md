@@ -14,28 +14,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rockreeee&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Skill (Programming Languages, Frameworks and Tools)
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,firebase,python,html,css,js,github,vscode,discord,aws,raspberrypi" /> 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,swift,kotlin,flutter,dart,firebase,python,js,github,vscode,discord,aws,raspberrypi" /> <br /><br />
 
-# My Skill (※ All have work experience)
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,laravel,react,nextjs,vue,jquery,sass,aws,figma,mysql,git,github,docker,vscode" /> <br /><br />
-
-< Additional Skills and Tools >
-
-- **AWS (Used Service):** EC2, ALB, ACM, Route53, VPC, EIP
-- **Frameworks:** Codeigniter, CakePHP
-- **Virtualization Tools:** Mutagen, Virtual Box, Vagrant, MAMP
-- **Project Management Tools:** Backlog, Click Up, Notion, Redmine
-- **Communication Tools:** Slack, Chatwork, Zoom, Google Meet, Discord, TeamViewer
-- **Version Control Tools:** Sourcetree
-- **AI Programming Tools:** ChatGPT, GitHub Copilot 
-- **Database Tools:** phpMyAdmin
-- **File Transfer Tool:** FileZilla
-- **Office Tools:** Google Calendar, Google Spreadsheet, Excel
-
-...and more.
 </p>
 
 ## My App
