@@ -16,7 +16,8 @@
 ## My Skill (Programming Languages, Frameworks and Tools)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,swift,kotlin,flutter,dart,firebase,python,js,github,vscode,discord,aws,raspberrypi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,swift,kotlin,flutter,dart,firebase,python,github,vscode,discord,aws,raspberrypi" /> <br /><br />
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="100" height="100"/> <br /><br />
 
 </p>
 
